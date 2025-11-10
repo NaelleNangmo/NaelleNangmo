@@ -53,7 +53,7 @@
 ### 🤝 Me contacter
 <p align="center">
   📧 <a href="mailto:naellenangmo@gmail.com">naellenangmo@gmail.com</a> •  
-  💼 <a href="https://www.linkedin.com/in/NaelleNangmo/">LinkedIn</a> •  
+  💼 <a href="[https://www.linkedin.com/in/NaelleNangmo/](https://www.linkedin.com/in/naelle-nangmo-5450b7366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )/">LinkedIn</a> •  
   🌐 <a href="https://naellenangmo.github.io/">Portfolio</a>
 </p>
 
