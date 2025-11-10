@@ -33,8 +33,8 @@
 ### 📈 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaelleNoutong&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaelleNoutong&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NaelleNangmo&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaelleNangmo&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -52,9 +52,9 @@
 
 ### 🤝 Me contacter
 <p align="center">
-  📧 <a href="mailto:naellenoutong@gmail.com">naellenoutong@gmail.com</a> •  
-  💼 <a href="https://www.linkedin.com/in/naellenoutong/">LinkedIn</a> •  
-  🌐 <a href="https://naellenoutong.github.io/">Portfolio</a>
+  📧 <a href="mailto:naellenangmo@gmail.com">naellenangmo@gmail.com</a> •  
+  💼 <a href="https://www.linkedin.com/in/NaelleNangmo/">LinkedIn</a> •  
+  🌐 <a href="https://naellenangmo.github.io/">Portfolio</a>
 </p>
 
 ---
