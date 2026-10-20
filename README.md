@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Objectif-Data%20Engineer-2563eb?style=for-the-badge" alt="Objectif Data Engineer"/>
-  <img src="https://img.shields.io/badge/Douala-Cameroun-0d1117?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Douala, Cameroun"/>
+  <img src="https://img.shields.io/badge/3iL%20Ing%C3%A9nieurs-Master%201%20Data%20Engineering-0d1117?style=for-the-badge" alt="3iL Ingénieurs, Master 1 Data Engineering"/>
   <img src="https://img.shields.io/badge/FR%20%2F%20EN-bilingue-0d1117?style=for-the-badge" alt="Bilingue"/>
 </p>
 
@@ -26,9 +26,9 @@
 
 **Français**
 
-Étudiante en Technologies de l'Informatique à l'**IUC** (Douala), spécialisée en programmation d'applications mobiles, et titulaire d'un DEC en Programmation Informatique (CCNB, Canada).
+Étudiante en **Master 1 Ingénierie des Données (Data Engineering)** à **3iL Ingénieurs** (Bac+4, Limoges) depuis septembre 2026. Mon parcours : Bachelor en développement full stack (IUC / partenariat 3iL) et DEC en Informatique, génie logiciel (IUC / partenariat CCNB).
 
-Développeuse full stack, je m'oriente vers le **data engineering** : bases de données fiables, services qui produisent des données propres, chaînes de livraison automatisées (CI/CD, conteneurs, supervision).
+Développeuse full stack, je me spécialise en **data engineering** : architectures de données, bases de données et modélisation, chaînes de livraison automatisées (CI/CD, conteneurs, supervision), MLOps et cloud.
 
 **Objectif :** rejoindre une équipe data comme data engineer (stage, alternance ou premier poste).
 
@@ -37,15 +37,26 @@ Développeuse full stack, je m'oriente vers le **data engineering** : bases de d
 
 **English**
 
-Computer Science student at **IUC** (Douala, Cameroon), specializing in mobile application development, with a DEC in Computer Programming (CCNB, Canada).
+**Master's 1 student in Data Engineering** at **3iL Ingénieurs** (Bac+4, Limoges, France) since September 2026. My path: a Bachelor in full stack development (IUC / 3iL partnership) and a DEC in Computer Science, software engineering (IUC / CCNB partnership).
 
-A full stack developer moving towards **data engineering**: reliable databases, services that produce clean data, and automated delivery pipelines (CI/CD, containers, monitoring).
+A full stack developer specializing in **data engineering**: data architectures, databases and modeling, automated delivery pipelines (CI/CD, containers, monitoring), MLOps and cloud.
 
 **Goal:** join a data team as a data engineer (internship, work-study or first position).
 
 </td>
 </tr>
 </table>
+
+### Parcours / Education
+
+```mermaid
+timeline
+    title De la programmation à l'ingénierie des données
+    2022-2023 : Baccalauréat scientifique : Lycée Bilingue de Bojongo
+    2023-2025 : DEC en Informatique, génie logiciel : IUC / partenariat CCNB
+    2025-2026 : Bachelor développement full stack : IUC / partenariat 3iL
+    Depuis 2026 : Master 1 Ingénierie des Données : 3iL Ingénieurs
+```
 
 ---
 
@@ -171,7 +182,7 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaelleNangmo&bg_color=0d1117&color=2563eb&line=2563eb&point=ffffff&area=true&area_color=2563eb&hide_border=true" width="100%" alt="Contribution graph"/>
+  <img src="https://ghchart.rshah.org/2563eb/NaelleNangmo" width="100%" alt="Contributions des 12 derniers mois"/>
 </p>
 
 ---
